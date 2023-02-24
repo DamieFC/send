@@ -96,7 +96,7 @@
     "husky": "^3.0.9",
     "intl-pluralrules": "^1.1.1",
     "lint-staged": "^9.4.2",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "morgan": "^1.9.1",
     "nanobus": "^4.4.0",
     "nanohtml": "^1.9.0",
