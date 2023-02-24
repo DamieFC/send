@@ -141,7 +141,7 @@
     "cldr-core": "^35.1.0",
     "configstore": "github:dannycoates/configstore#master",
     "convict": "^6.2.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^3.23.3",
     "mkdirp": "^0.5.1",
     "mozlog": "^2.2.0",
